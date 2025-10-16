@@ -27,7 +27,7 @@ public class Main {
                 case "1":
                     add(manager);
                     break;
-                case "2":
+                case "2":   
                     list(manager);
                     break;
                 case "3":
